@@ -1,0 +1,15 @@
+D:\Lab Report\obj\Debug\net6.0\Lab Report.csproj.AssemblyReference.cache
+D:\Lab Report\obj\Debug\net6.0\Lab Report.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab Report\obj\Debug\net6.0\Lab Report.AssemblyInfoInputs.cache
+D:\Lab Report\obj\Debug\net6.0\Lab Report.AssemblyInfo.cs
+D:\Lab Report\obj\Debug\net6.0\Lab Report.csproj.CoreCompileInputs.cache
+D:\Lab Report\bin\Debug\net6.0\Lab Report.exe
+D:\Lab Report\bin\Debug\net6.0\Lab Report.deps.json
+D:\Lab Report\bin\Debug\net6.0\Lab Report.runtimeconfig.json
+D:\Lab Report\bin\Debug\net6.0\Lab Report.dll
+D:\Lab Report\bin\Debug\net6.0\Lab Report.pdb
+D:\Lab Report\obj\Debug\net6.0\Lab Report.dll
+D:\Lab Report\obj\Debug\net6.0\refint\Lab Report.dll
+D:\Lab Report\obj\Debug\net6.0\Lab Report.pdb
+D:\Lab Report\obj\Debug\net6.0\Lab Report.genruntimeconfig.cache
+D:\Lab Report\obj\Debug\net6.0\ref\Lab Report.dll
